@@ -27,7 +27,7 @@ Description:
 
 ## Green
 
-Vulnerability #1: ___Cross-Site Scripting_______________
+Vulnerability #2:  ___Cross-Site Scripting_______________
 
 Description:
 
@@ -36,13 +36,10 @@ Description:
 
 ## Red
 
-Vulnerability #1: __Insecure Direct Object Reference________________
+Vulnerability #3:  __Insecure Direct Object Reference________________
 
 Description:
 
 <img src="Red.gif">
 
 
-## Notes
-
-Describe any challenges encountered while doing the work
